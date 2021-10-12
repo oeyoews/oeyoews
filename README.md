@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyoews&label=Profile%20views&color=0e75b6&style=flat" alt="max397574" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oeyoews" alt="max397574" /></a> </p>
+
 <h3>Editors</h4>
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
@@ -30,4 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeyoews&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oeyoews&" alt="oeyoews" /></p>
+
+
 
