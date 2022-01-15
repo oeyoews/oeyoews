@@ -5,7 +5,6 @@
 <h3>Editors</h4>
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" />
 </p>
 
 <h3>Markup Languages</h5>
