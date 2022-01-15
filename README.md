@@ -7,12 +7,13 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
   <img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" />
 </p>
-
+<!--
 <h3>Markup Languages</h5>
 <p>
   <img src="https://img.shields.io/badge/ORG-d474c9?style=for-the-badge&logo=org&logoColor=white" alt="ORG" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown" />
 </p> 
+-->
 
 <h3>Technologies</h3>
 <p>
