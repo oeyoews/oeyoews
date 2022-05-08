@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [oeyoews](https://github.com/oeyoews)
 
-- 📝 I regularly write articles on [oeyoew](https://oeyoew.fun)
+- 📝 I regularly write articles on [🌽 oeyoew](https://oeyoew.fun)
 
 - 💬 Ask me about **vue**
 
