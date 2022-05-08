@@ -1,5 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyoews&label=Profile%20views&color=0e75b6&style=flat" alt="max397574" /> </p>
+<!-- add times count -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=oeyoews.oeyoews&left_color=green&right_color=blue)
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyoews&label=Profile%20views&color=0e75b6&style=flat" alt="max397574" /> </p>
+-->
+
+<!-- medal -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oeyoews" alt="max397574" /></a> </p>
 
 <h3>Editors</h4>
