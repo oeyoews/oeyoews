@@ -16,7 +16,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyoews&label=Profile%20views&color=0e75b6&style=flat" alt="oeyoews" /> </p>
 -->
-## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
+## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
