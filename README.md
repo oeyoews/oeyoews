@@ -77,10 +77,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-<!--<h3 align="left">Support:</h3>-->
-<!--<p><a href="https://www.buymeacoffee.com/oeyoews"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oeyoews" /></a><a href="https://ko-fi.com/oeyoews"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="oeyoews" /></a></p><br><br>-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oeyoews&show_icons=true&locale=en&layout=compact" alt="oeyoews" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oeyoews" alt="oeyoews" /></a> </p>
 
