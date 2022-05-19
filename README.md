@@ -1,4 +1,54 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+🌆 Daytime    219 commits    ████████░░░░░░░░░░░░░░░░░   32.93% 
+🌃 Evening    192 commits    ███████░░░░░░░░░░░░░░░░░░   28.87% 
+🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.59%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+
+ Last Updated on 19/05/2022 11:15:52 UTC
 <!--END_SECTION:waka-->
 
 
