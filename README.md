@@ -59,7 +59,7 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 <a href="https://oeyoew.fun">
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="100%"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="60%"/>
  <!--
  <img src="https://github-readme-stats.vercel.app/api?username=oeyoews&show_icons=true&theme=radical&&hide_border=true" width="62.5%"/>
 -->
