@@ -1,27 +1,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
-> 🏆 3,725 Contributions in the Year 2022
- > 
-> 📦 551.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 51 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    157 commits    █████░░░░░░░░░░░░░░░░░░░░   23.12% 
-🌆 Daytime    199 commits    ███████░░░░░░░░░░░░░░░░░░   29.31% 
-🌃 Evening    207 commits    ███████░░░░░░░░░░░░░░░░░░   30.49% 
-🌙 Night      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08%
+🌞 Morning    155 commits    █████░░░░░░░░░░░░░░░░░░░░   22.76% 
+🌆 Daytime    202 commits    ███████░░░░░░░░░░░░░░░░░░   29.66% 
+🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.54% 
+🌙 Night      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.03%
 
 ```
 
@@ -33,9 +23,6 @@
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -52,12 +39,8 @@ Makefile                 1 repo              ███░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/oeyoews/oeyoews/main/charts/bar_graph.png) 
-
-
- Last Updated on 23/05/2022 00:45:46 UTC
+ Last Updated on 24/05/2022 00:49:47 UTC
 <!--END_SECTION:waka-->
 
 
