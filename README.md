@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    166 commits    ██████░░░░░░░░░░░░░░░░░░░   24.34% 
 🌆 Daytime    203 commits    ███████░░░░░░░░░░░░░░░░░░   29.77% 
-🌃 Evening    207 commits    ███████░░░░░░░░░░░░░░░░░░   30.35% 
-🌙 Night      106 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54%
+🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.5% 
+🌙 Night      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.4%
 
 ```
 
@@ -40,7 +40,7 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/05/2022 00:53:22 UTC
+ Last Updated on 31/05/2022 00:47:54 UTC
 <!--END_SECTION:waka-->
 
 
