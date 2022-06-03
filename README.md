@@ -58,15 +58,60 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 3,846 Contributions in the Year 2022
+ > 
+> 📦 564.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 57 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    165 commits    ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+🌆 Daytime    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.17% 
+🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.01% 
+🌙 Night      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Thursday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16%
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -83,8 +128,12 @@ Makefile                 1 repo              ███░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 03/06/2022 06:07:48 UTC
+![Chart not found](https://raw.githubusercontent.com/oeyoews/oeyoews/main/charts/bar_graph.png) 
+
+
+ Last Updated on 03/06/2022 06:37:37 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg" width=100% height=10%/></a>
