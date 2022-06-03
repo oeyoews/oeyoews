@@ -1,7 +1,7 @@
 <!--<details hide>-->
  <!--<summary>Hide or Show...</summary>-->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=65% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=35%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=64% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=35%/>
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <!-- <h3 align="center">A passionate frontend developer from China</h3> -->
