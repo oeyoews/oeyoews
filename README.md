@@ -1,20 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    163 commits    ██████░░░░░░░░░░░░░░░░░░░   23.87% 
-🌆 Daytime    205 commits    ███████░░░░░░░░░░░░░░░░░░   30.01% 
-🌃 Evening    210 commits    ███████░░░░░░░░░░░░░░░░░░   30.75% 
-🌙 Night      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,7 +27,7 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/06/2022 00:40:15 UTC
+ Last Updated on 03/06/2022 06:07:48 UTC
 <!--END_SECTION:waka-->
 
 
