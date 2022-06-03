@@ -137,4 +137,4 @@ Makefile                 1 repo              ███░░░░░░░░�
  Last Updated on 03/06/2022 06:37:37 UTC
 <!--END_SECTION:waka-->
 
-<a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg" width=100% height=10%/></a>
+<a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg" width=100% height=10% target="_blank"/></a>
