@@ -2,7 +2,7 @@
  <!--<summary>Hide or Show...</summary>-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=64% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=35%/>
-<img src="images/line.gif" alt="demo" style="zoom:40%; text-align:left;" />
+<img src="images/line.gif" height=95px />
 
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
