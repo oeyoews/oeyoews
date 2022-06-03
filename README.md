@@ -4,7 +4,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=65% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=30% height=200px/>
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<!-- <h3 align="center">A passionate frontend developer from China</h3> -->
 
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
