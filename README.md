@@ -1,36 +1,3 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-
- Last Updated on 03/06/2022 06:07:48 UTC
-<!--END_SECTION:waka-->
-
-
 <!--<details hide>-->
  <!--<summary>Hide or Show...</summary>-->
 
@@ -125,7 +92,37 @@ Makefile                 1 repo              ███░░░░░░░░�
 -->
 
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+
+ Last Updated on 03/06/2022 06:07:48 UTC
+<!--END_SECTION:waka-->
 
 
 
