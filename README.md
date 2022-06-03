@@ -1,6 +1,3 @@
-<!--<details hide>-->
- <!--<summary>Hide or Show...</summary>-->
-
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=64% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=35%/>
 <img src="images/line.gif" height=95px />
 
@@ -8,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
-
 
 - 🌱 I’m currently learning **C Python Java go**
 
@@ -53,88 +49,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-
-<hr>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 3,846 Contributions in the Year 2022
- >
-> 📦 564.5 kB Used in GitHub's Storage
- >
-> 🚫 Not Opted to Hire
- >
-> 📜 57 Public Repositories
- >
-> 🔑 1 Private Repository
- >
-**I'm an Early 🐤**
-
-```text
-🌞 Morning    165 commits    ██████░░░░░░░░░░░░░░░░░░░   23.81%
-🌆 Daytime    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.17%
-🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.01%
-🌙 Night      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
-
-```
-📅 **I'm Most Productive on Saturday**
-
-```text
-Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81%
-Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
-Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87%
-Thursday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31%
-Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33%
-Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16%
-
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages:
-No Activity Tracked This Week
-
-🔥 Editors:
-No Activity Tracked This Week
-
-🐱‍💻 Projects:
-No Activity Tracked This Week
-
-💻 Operating System:
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Shell**
-
-```text
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/oeyoews/oeyoews/main/charts/bar_graph.png)
-
-
- Last Updated on 03/06/2022 06:37:37 UTC
-<!--END_SECTION:waka-->
-
-<a href="https://dream-plan.cn" target="_blank"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg" width=100% height=10%/></a>
