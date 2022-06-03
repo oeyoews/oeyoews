@@ -2,10 +2,10 @@
  <!--<summary>Hide or Show...</summary>-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" width=64% height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width=35%/>
+<img src="images/line.gif" alt="demo" style="zoom:40%; text-align:left;" />
+
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
-<!-- <h3 align="center">A passionate frontend developer from China</h3> -->
-
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
 
@@ -36,7 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/ORG-d474c9?style=for-the-badge&logo=org&logoColor=white" alt="ORG" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown" />
-</p> 
+</p>
 
 
 <h3>Technologies</h3>
@@ -62,67 +62,67 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 3,846 Contributions in the Year 2022
- > 
-> 📦 564.5 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 564.5 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 57 Public Repositories
+ >
+> 🔑 1 Private Repository
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    165 commits    ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-🌆 Daytime    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.17% 
-🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.01% 
+🌞 Morning    165 commits    ██████░░░░░░░░░░░░░░░░░░░   23.81%
+🌆 Daytime    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.17%
+🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.01%
 🌙 Night      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
-Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
-Thursday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81%
+Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
+Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87%
+Thursday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31%
+Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33%
 Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Shell**
 
 ```text
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
@@ -130,7 +130,7 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/oeyoews/oeyoews/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/oeyoews/oeyoews/main/charts/bar_graph.png)
 
 
  Last Updated on 03/06/2022 06:37:37 UTC
