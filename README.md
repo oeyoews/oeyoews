@@ -1,6 +1,10 @@
-<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true" height=200px/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
 
+<!--
 <img src="images/line.gif" height=95px />
+-->
+
+> **Note** This is a special repo ✨
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 
