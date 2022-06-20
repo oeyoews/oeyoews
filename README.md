@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C Python Java go**
 
-- 💬 Ask me about **lua** **html** **css** **shellscript** **vimscript** 
+- 💬 Ask me about **lua html css vimscript shell git etc**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/oeyoews)
 
