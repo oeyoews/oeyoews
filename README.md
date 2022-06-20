@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **C Python Java go**
 
-- 👨‍💻 All of my projects are available at [oeyoews](https://github.com/oeyoews)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/oeyoews)
 
 - 📝 I regularly write articles on [🌽 oeyoew](https://oeyoew.fun)
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **lua** **html** **css** **shellscript** **vimscript** 
 
 - 📫 How to reach me **jyao4783@gmail.com**
 
-- 📄 Know about my experiences [oeyoews](https://github.com/oeyoews)
+- 📄 Know about my experiences [Github](https://github.com/oeyoews)
 
 - ⚡ Fun fact **I think I am fun**
 
