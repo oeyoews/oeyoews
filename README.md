@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 
-> **Note** This is a special repo ✨
+> **Note** This is a special repo  [repo page](https://oeyoews.github.io/oeyoews/) ✨
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
