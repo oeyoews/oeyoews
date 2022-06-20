@@ -2,7 +2,7 @@
 
 > **Note** This is a special repo ✨
 
-<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&column=3&no-frame=true"/>
 
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
