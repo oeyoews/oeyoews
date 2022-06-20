@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **C Python Java go**
 
+- 💬 Ask me about **lua** **html** **css** **shellscript** **vimscript** 
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/oeyoews)
 
 - 📝 I regularly write articles on [🌽 oeyoew](https://oeyoew.fun)
-
-- 💬 Ask me about **lua** **html** **css** **shellscript** **vimscript** 
 
 - 📫 How to reach me **jyao4783@gmail.com**
 
@@ -50,8 +50,10 @@
 
 ---
 
+<details>
+  <summary>INFO<</summary>
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
-
+</details>
 <!--
 <img src="images/line.gif" height=95px />
 -->
