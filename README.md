@@ -2,6 +2,8 @@
 
 > **Note** This is a special repo ✨
 
+<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
+
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
 - 🌱 I’m currently learning **C Python Java go**
@@ -51,8 +53,8 @@
 ---
 
 <details>
-  <summary>INFO<</summary>
-<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
+  <summary>INFO</summary>
+<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/> 
 </details>
 <!--
 <img src="images/line.gif" height=95px />
