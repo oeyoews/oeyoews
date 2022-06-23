@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/72405338/175272955-a2bb6d07-c5fe-49d3-8da7-a70078ad0ea2.png" width=128 />
+</div>
+
 > **Note** This is a special repo  [repo page](https://oeyoews.github.io/oeyoews/) ✨
 
 <div align="center">
