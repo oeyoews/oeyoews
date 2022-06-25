@@ -28,7 +28,7 @@
 
 <!-- commit -->
 <details>
-<summary> Commits</summary>
+<summary>🔏 Commits</summary>
 
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
@@ -41,7 +41,7 @@
 
 
 <details>
-<summary> REPOS</summary>
+<summary>🔬 REPOS</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/nvim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/twm)
