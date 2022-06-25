@@ -1,4 +1,6 @@
-## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
+## [Welcome](https://oeyoew.fun) ✨ 
+
+<a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
 - 🌱 I’m currently learning **C Python Java go**
 
