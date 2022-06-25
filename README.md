@@ -14,15 +14,15 @@
 
 <hr>
 
-- 🌱 I’m currently learning **C Java Go Python **
+- 🌱 I’m currently learning __C Java Go Python__
 
-- 💬 Ask me about **Lua Html Css vimscript Shell Git etc**
+- 💬 Ask me about __Lua Html Css vimscript Shell Git etc__
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/oeyoews)
+- 👨‍💻 All of my projects are available at [🌆](https://github.com/oeyoews)
 
-- 📄 Know about my experiences [Github](https://github.com/oeyoews)
+- 📄 Know about my experiences [👀](https://github.com/oeyoews)
 
-- 📝 I regularly write articles on [oeyoew](https://oeyoew.fun)
+- 📝 I regularly write articles on [oeyoews](https://oeyoew.fun)
 
 - 📫 How to reach me **jyao4783@gmail.com**
 
