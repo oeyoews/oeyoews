@@ -54,7 +54,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true"/>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true)](https://github.com/oeyeows/nvim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/nvim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/twm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/tw5)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/dotfiles)
