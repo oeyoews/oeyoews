@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm oeyoews</h1>
-
-> **Note** This is a special repo  [repo page](https://oeyoews.github.io/oeyoews/) ✨
-
 ## [Welcome](https://oeyoew.fun) ✨ <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
 - 🌱 I’m currently learning **C Python Java go**
