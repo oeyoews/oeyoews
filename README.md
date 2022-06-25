@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [👀](https://github.com/oeyoews)
 
-- 📝 I regularly write articles on [oeyoews](https://oeyoew.fun)
+- 📝 I regularly write articles on [🤳](https://oeyoew.fun)
 
 - 📫 How to reach me [📧](jyao4783@gmail.com)
 
