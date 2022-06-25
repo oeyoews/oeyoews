@@ -1,7 +1,5 @@
 ## Welcome <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U"></a>
 
-<hr>
-
 - 🌱 I’m currently learning **C Python Java go**
 
 - 💬 Ask me about **lua html css vimscript shell git etc**
