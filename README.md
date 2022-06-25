@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [oeyoews](https://oeyoew.fun)
 
-- 📫 How to reach me **jyao4783@gmail.com**
+- 📫 How to reach me [📧](jyao4783@gmail.com)
 
 - ⚡ Fun fact **I think I am fun**
 
