@@ -1,11 +1,14 @@
 <div align="center">
+<img src="https://img.shields.io/badge/C-violet?logo=c&logoColor=white&style=flat-square" alt="c" />
+<img src="https://img.shields.io/badge/Java-ffcc00?logo=java&logoColor=red&style=flat-square" alt="java" />
+<img src="https://img.shields.io/badge/Go-violet?logo=go&logoColor=white&style=flat-square" alt="go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square" alt="Neovim" />
 <img src="https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="BASH" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U">
 </div>
 
