@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/C-#BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
+<img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
 <img src="https://img.shields.io/badge/Java-ffcc00?logo=java&logoColor=red&style=flat-square" alt="java" />
 <img src="https://img.shields.io/badge/Go-violet?logo=go&logoColor=white&style=flat-square" alt="go" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
