@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://ghchart.rshah.org/BB9AF7/oeyoews"/>
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
 <img src="https://img.shields.io/badge/Java-ffcc00?logo=java&logoColor=red&style=flat-square" alt="java" />
 <img src="https://img.shields.io/badge/Go-violet?logo=go&logoColor=white&style=flat-square" alt="go" />
