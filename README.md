@@ -20,19 +20,13 @@
 
 <hr>
 
-- 🌱 I’m currently learning __C Java Go Python__
-
-- 💬 Ask me about __Lua Html Css vimscript Shell Git etc__
-
 - 👨‍💻 All of my projects are available at [🌆](https://github.com/oeyoews)
 
 - 📄 Know about my experiences [👀](https://github.com/oeyoews)
 
 - 📝 I regularly write articles on [🤳](https://oeyoew.fun)
 
-- 📫 How to reach me [📧](jyao4783@gmail.com)
-
-- ⚡ Fun fact **I think I am fun**
+- 📫 How to contact me [📧](jyao4783@gmail.com)
 
 <!-- commit -->
 <details>
@@ -48,6 +42,7 @@
 <details>
 <summary>🔬 REPOS</summary>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/tw5)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/nvim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/twm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/tw5)
