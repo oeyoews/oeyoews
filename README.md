@@ -20,10 +20,10 @@
 <!-- repo -->
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/nvim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/twm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/tw5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true)](https://github.com/oeyoews/dotfiles)
+<a href="https://github.com/oeyoews/nvim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/tw5"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/twm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/dotfiles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true" alt=""></a>
 
 </div>
 
