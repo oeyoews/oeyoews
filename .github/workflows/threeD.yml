@@ -1,4 +1,4 @@
-name: generate threeD
+name: Generate threeD
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
