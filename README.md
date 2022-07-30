@@ -1,3 +1,5 @@
+<img src="dist/github-snake-dark.svg"/>
+
 <!-- banner -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=BF91F3&center=true&vCenter=true&lines=O+ever+youthful%2C+O+ever+weeping" alt="Typing SVG" /></a>
