@@ -1,3 +1,8 @@
+<!-- banner -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=BF91F3&center=true&vCenter=true&lines=O+ever+youthful%2C+O+ever+weeping" alt="Typing SVG" /></a>
+</div>
+
 <!-- badges -->
 <div align="center">
 <img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
@@ -9,8 +14,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U">
 </div>
-
----
 
 <!-- summary -->
 <h2>📈 Trending</h2>
