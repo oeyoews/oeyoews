@@ -1,4 +1,7 @@
-<img src="dist/github-snake-dark.svg"/>
+<!-- <img src="dist/github-snake-dark.svg"/> -->
+
+![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <!-- banner -->
 <div align="center">
