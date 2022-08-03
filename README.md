@@ -2,7 +2,7 @@
 
 <!-- ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only) -->
 
-![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](dist/snake/github-snake-dark.svg#gh-dark-mode-only)
 
 <!-- banner -->
 <div align="center">
