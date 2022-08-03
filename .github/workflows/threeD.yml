@@ -1,7 +1,7 @@
-name: Generate threeD
+name: Generate Three 3D Images
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 16 * * *"
   workflow_dispatch:
 
@@ -20,5 +20,5 @@ jobs:
           git config user.name oeyoews
           git config user.email jyao4783@gmail.com
           git add -A .
-          git commit -m "ci: generated threeD"
+          git commit -m "Generate Three 3D Images"
           git push
