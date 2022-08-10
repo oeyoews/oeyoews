@@ -35,6 +35,7 @@
 <a href="https://github.com/oeyoews/twm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true" alt=""></a>
 <a href="https://github.com/oeyoews/dotfiles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true" alt=""></a>
 <a href="https://github.com/oeyoews/oeyoews"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=oeyoews&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/latex"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=latex&theme=tokyonight&hide_border=true" alt=""></a>
 </div>
 
 ---
