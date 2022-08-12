@@ -36,7 +36,7 @@ jobs:
           git config user.name oeyoews
           git config user.email jyao4783@gmail.com
           git add -A .
-          git commit -m "Generate Three 3D Images && Update Trending"
+          git commit -m "Updated Github Profiles"
           git push
       # - name: Push to GitHub
       #   uses: EndBug/add-and-commit@v7.2.1
