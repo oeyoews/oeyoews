@@ -1,4 +1,4 @@
-name: Generate Three 3D Images
+name: Generate Profiles
 
 on:
   schedule:
