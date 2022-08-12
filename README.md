@@ -25,7 +25,7 @@
 <!-- summary -->
 <h2>📈 Trending</h2>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight " alt="">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight" alt="Trending">
 </div>
 
 <!-- repo -->
