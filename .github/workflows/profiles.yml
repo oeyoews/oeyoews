@@ -20,6 +20,11 @@ jobs:
             dist/snake/github-snake.svg
             dist/snake/github-snake-dark.svg?palette=github-dark
             dist/snake/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: "Generate Contribution Snake"
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,8 +43,3 @@ jobs:
           git add -A .
           git commit -m "Updated Github Profiles"
           git push
-      # - name: Push to GitHub
-      #   uses: EndBug/add-and-commit@v7.2.1
-      #   with:
-      #     branch: main
-      #     message: "Generate Contribution Snake"
