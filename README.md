@@ -28,7 +28,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight" alt="Trending">
 </div>
 
-<!-- repo -->
+<!-- repo 
 <h2>🧪 Repositories</h2>
 <div align="center">
 <a href="https://github.com/oeyoews/nvim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true" alt=""></a>
@@ -38,6 +38,7 @@
 <a href="https://github.com/oeyoews/oeyoews"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=oeyoews&theme=tokyonight&hide_border=true" alt=""></a>
 <a href="https://github.com/oeyoews/latex"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=latex&theme=tokyonight&hide_border=true" alt=""></a>
 </div>
+-->
 
 ---
 
