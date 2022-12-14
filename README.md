@@ -11,7 +11,7 @@
 
 <!-- badges -->
 <div align="center">
-<img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
+<img src="https://img.shields.io/badge/JS-BB9AF7?logo=javascript&logoColor=white&style=flat-square" alt="js" />
 <img src="https://img.shields.io/badge/Java-FAFA0A?logo=openjdk&logoColor=black&style=flat-square" alt="java" />
 <img src="https://img.shields.io/badge/LUA-BF91F3?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square" alt="Neovim" />
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="BASH" />
 <img src="https://img.shields.io/badge/Linux-green?style=flat-square&logo=manjaro&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
 <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U">
 </div>
 
