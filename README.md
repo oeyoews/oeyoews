@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Linux-green?style=flat-square&logo=manjaro&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square" alt="c" />
+<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square" alt="notion" />
 <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U">
 </div>
 
