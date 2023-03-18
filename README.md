@@ -1,5 +1,5 @@
 <!-- <img src="dist/github-snake-dark.svg"/> -->
-
+<img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 <!-- ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only) -->
 
 ![GitHub Snake dark](dist/snake/github-snake-dark.svg#gh-dark-mode-only)
