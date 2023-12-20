@@ -24,7 +24,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U"> -->
 </div>
 
-<h2>💼 repo</h2>
+<h2>💼 项目</h2>
 <table>
   <thead align="center">
     <tr>
@@ -104,16 +104,17 @@
 </table>
 
 <!-- summary -->
-<!-- <h2>📈 Trending</h2> -->
+<h2>📈 最近提交</h2>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight" alt="Trending">
 </div>
 
 ---
 
-<!-- medals -->
+<!-- medals
 <h2>🏆 Github Profile Trophy</h2>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true&no-bg=true"/> </div>
+-->
 <!--
 <h2>☕ Recent Activities</h2>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true"/>
