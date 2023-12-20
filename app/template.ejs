@@ -28,12 +28,12 @@
 				</th>
 				<th>
 					<% project.techList.forEach(function(tech){ %>
-						<img src="<%= tech %>" alt="badge">
+						<img src="<%- tech %>" alt="badge">
 						<% }); %>
 				</th>
 				<th>
 					<% project.badges.forEach(function(badge){ %>
-						<img src="<%= badge %>" alt="badge">
+						<img src="<%- badge %>" alt="badge">
 						<% }); %>
 				</th>
 			</tr>
