@@ -24,38 +24,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U"> -->
 </div>
 
-<!-- summary -->
-<!-- <h2>📈 Trending</h2> -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight" alt="Trending">
-</div>
-
-<!--
-<h2>🧪 Repositories</h2>
-<div align="center">
-<a href="https://github.com/oeyoews/nvim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true" alt=""></a>
-<a href="https://github.com/oeyoews/tw5"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true" alt=""></a>
-<a href="https://github.com/oeyoews/twm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true" alt=""></a>
-<a href="https://github.com/oeyoews/dotfiles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true" alt=""></a>
-<a href="https://github.com/oeyoews/oeyoews"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=oeyoews&theme=tokyonight&hide_border=true" alt=""></a>
-<a href="https://github.com/oeyoews/latex"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=latex&theme=tokyonight&hide_border=true" alt=""></a>
-</div>
--->
-
-
----
-
-<!-- medals -->
-<h2>🏆 Github Profile Trophy</h2>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true&no-bg=true"/> </div>
-<!--
-<h2>☕ Recent Activities</h2>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true"/>
--->
-<!-- <img src="profile-3d-contrib/profile-night-rainbow.svg"/> -->
-</div>
-
- <h2>💼 repo</h2>
+<h2>💼 repo</h2>
 <table>
   <thead align="center">
     <tr>
@@ -133,3 +102,33 @@
     </tr>
   </tbody>
 </table>
+
+<!-- summary -->
+<!-- <h2>📈 Trending</h2> -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight" alt="Trending">
+</div>
+
+---
+
+<!-- medals -->
+<h2>🏆 Github Profile Trophy</h2>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true&no-bg=true"/> </div>
+<!--
+<h2>☕ Recent Activities</h2>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true"/>
+-->
+<!-- <img src="profile-3d-contrib/profile-night-rainbow.svg"/> -->
+</div>
+
+<!--
+<h2>🧪 Repositories</h2>
+<div align="center">
+<a href="https://github.com/oeyoews/nvim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/tw5"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/twm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/dotfiles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/oeyoews"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=oeyoews&theme=tokyonight&hide_border=true" alt=""></a>
+<a href="https://github.com/oeyoews/latex"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=latex&theme=tokyonight&hide_border=true" alt=""></a>
+</div>
+-->
