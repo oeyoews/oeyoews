@@ -2,6 +2,7 @@ const fs = require('fs');
 const ejs = require('ejs');
 const path = require('path');
 const prettify = require('html-prettify');
+const chalk = require('chalk');
 
 const data = require('./data');
 
@@ -18,4 +19,6 @@ const outputPath = path.join(__dirname, '../README.md');
   const prettyHtml = prettify(html);
 
   fs.writeFileSync(outputPath, prettyHtml);
-})();
+})().then(() => {
+  console.log(chalk.green('done!'));
+});
