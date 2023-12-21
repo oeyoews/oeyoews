@@ -5,7 +5,6 @@
 	<thead align="center">
 		<tr>
 			<th>项目</th>
-			<th>Github</th>
 			<th>简述</th>
 			<th>技术</th>
 			<th>成就</th>
@@ -16,12 +15,9 @@
 		<% projects.forEach(function(project){ %>
 			<tr>
 				<th>
-					<a href="<%= project.preview || project.github %>" target="_blank">
+					<a href="<%= project.github %>" target="_blank">
 						<%= project.repo %>
 					</a>
-				</th>
-				<th>
-					<a href="<%= project.github %>" target="_blank">Github</a>
 				</th>
 				<th>
 					<%= project.logo %>
@@ -42,4 +38,36 @@
 	</tbody>
 </table>
 
-<!-- <h2>📦 Packages</h2> -->
+<h2>📦 Packages</h2>
+
+<table>
+	<thead align="center">
+		<tr>
+			<th>项目</th>
+			<th>简述</th>
+			<th>技术</th>
+		</tr>
+	</thead>
+
+	<tbody align="left">
+		<% packages.forEach(function(package){ %>
+			<tr>
+				<th>
+					<a href="<%= package.github %>" target="_blank">
+						<%= package.name %>
+					</a>
+				</th>
+				<th>
+
+					<%= package.logo %>
+						<%= package.desc %>
+				</th>
+				<th>
+					<% package.techList.forEach(function(tech){ %>
+						<img src="<%- tech %>" alt="badge">
+						<% }); %>
+				</th>
+			</tr>
+			<% }); %>
+	</tbody>
+</table>

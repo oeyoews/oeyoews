@@ -1,10 +1,9 @@
-<!-- generated at 2023/12/21 16:54:06 -->
+<!-- generated at 2023/12/21 19:32:51 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
     <tr>
       <th>项目</th>
-      <th>Github</th>
       <th>简述</th>
       <th>技术</th>
       <th>成就</th>
@@ -13,11 +12,22 @@
   <tbody align="left">
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit" target="_blank">
-        tiddlywiki-starter-kit</a>
+        <a href="https://github.com/oeyoews/usewiki/tree/main/" target="_blank">
+        usewiki</a>
       </th>
       <th>
-        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit" target="_blank">Github</a>
+      📦 Browser Extension: Record Thoughts With TiddlyWik</th>
+      <th>
+        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/usewiki?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/" target="_blank">
+        tiddlywiki-starter-kit</a>
       </th>
       <th>
       📦 使用 tiddlywiki 搭建的本地优先的笔记软件</th>
@@ -32,11 +42,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/nextjs-mdx-blog" target="_blank">
+        <a href="https://github.com/oeyoews/nextjs-mdx-blog/tree/main/" target="_blank">
         nextjs-mdx-blog</a>
-      </th>
-      <th>
-        <a href="https://github.com/oeyoews/nextjs-mdx-blog" target="_blank">Github</a>
       </th>
       <th>
       📝 支持多种数据源的 Blog, 使用 Nextjs14 构建</th>
@@ -50,11 +57,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/react-music" target="_blank">
+        <a href="https://github.com/oeyoews/react-music/tree/main/" target="_blank">
         react-music</a>
-      </th>
-      <th>
-        <a href="https://github.com/oeyoews/react-music" target="_blank">Github</a>
       </th>
       <th>
       🎶 使用 nextjs14 构建的在线音乐播放器</th>
@@ -68,11 +72,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/reading-books-with-tiddlywiki" target="_blank">
+        <a href="https://github.com/oeyoews/reading-books-with-tiddlywiki/tree/main/" target="_blank">
         reading-books-with-tiddlywiki</a>
-      </th>
-      <th>
-        <a href="https://github.com/oeyoews/reading-books-with-tiddlywiki" target="_blank">Github</a>
       </th>
       <th>
       📖 使用 tiddlywiki 构建的在线书籍阅读器</th>
@@ -82,6 +83,54 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/reading-books-with-tiddlywiki?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
+<h2>📦 Packages</h2>
+<table>
+  <thead align="center">
+    <tr>
+      <th>项目</th>
+      <th>简述</th>
+      <th>技术</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/packages/create-neotw-apps" target="_blank">
+        create-neotw-app</a>
+      </th>
+      <th>
+      📦 create a tiddlywiki project with tiddlywiki-starter-kit</th>
+      <th>
+        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-markdown-importer-cli/tree/main/" target="_blank">
+        tiddlywiki-markdown-importer-cli</a>
+      </th>
+      <th>
+      📦 tiddlywiki importer/exporter with markdown</th>
+      <th>
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-projects/tree/main/packages/skill-badges" target="_blank">
+        skill-badges</a>
+      </th>
+      <th>
+      📦 A collection of skill badges and type safe icons.</th>
+      <th>
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
       </th>
     </tr>
   </tbody>
