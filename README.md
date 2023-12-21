@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/21 13:58:25 -->
+<!-- generated at 2023/12/21 16:54:06 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -23,8 +23,8 @@
       📦 使用 tiddlywiki 搭建的本地优先的笔记软件</th>
       <th>
         <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-starter-kit?style=flat-square" alt="badge">
@@ -42,7 +42,7 @@
       📝 支持多种数据源的 Blog, 使用 Nextjs14 构建</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/nextjs-mdx-blog?style=flat-square" alt="badge">
@@ -60,7 +60,7 @@
       🎶 使用 nextjs14 构建的在线音乐播放器</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/react-music?style=flat-square" alt="badge">
