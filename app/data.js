@@ -5,7 +5,9 @@ const createGitHubURL = (repo) => `https://github.com/oeyoews/${repo}`;
 const createGitHubStarURL = (repo) =>
   `https://img.shields.io/github/stars/oeyoews/${repo}?style=flat-square`;
 
+// TODO
 const packages = [];
+
 const projects = [
   {
     logo: '📦',
