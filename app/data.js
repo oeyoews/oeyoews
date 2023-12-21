@@ -35,6 +35,7 @@ const projects = [
 console.log(chalk.cyan('🔎 找到了 ' + projects.length + ' 个项目。\n'));
 
 module.exports = {
+  date: new Date().toLocaleString(),
   projects: projects.map((project) => ({
     ...project,
     github: createGitHubURL(project.repo),
