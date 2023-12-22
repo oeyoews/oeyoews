@@ -15,8 +15,8 @@ dependencies:
     specifier: ^1.0.7
     version: 1.0.7
   skill-badges:
-    specifier: ^1.0.2
-    version: 1.0.2
+    specifier: ^1.2.0
+    version: 1.2.0
 
 packages:
 
@@ -118,8 +118,8 @@ packages:
       brace-expansion: 2.0.1
     dev: false
 
-  /skill-badges@1.0.2:
-    resolution: {integrity: sha512-LweilN2PMhSINEMPEjhRETxBDOef1NEptBjpH7zx4oAFihn+gNfBPEtlcZwjaQbJAwadeuSszeTTYQZBVHZTWg==}
+  /skill-badges@1.2.0:
+    resolution: {integrity: sha512-pNjNswpMZD84n/1+XzTSb4N4Y1OVicxFftoII+/hlnabJSo42ixZ/1WZ3Yg1aO1A/MNnlaS4LO8a31uYFpswdg==}
     dev: false
 
   /supports-color@7.2.0:

@@ -1,4 +1,4 @@
-const badges = require('skill-badges').default;
+const { default: badges } = require('skill-badges');
 const chalk = require('chalk');
 
 const createGitHubURL = (repo, path = '') =>

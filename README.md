@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/21 19:32:51 -->
+<!-- generated at 2023/12/22 14:50:22 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -10,20 +10,6 @@
     </tr>
   </thead>
   <tbody align="left">
-    <tr>
-      <th>
-        <a href="https://github.com/oeyoews/usewiki/tree/main/" target="_blank">
-        usewiki</a>
-      </th>
-      <th>
-      📦 Browser Extension: Record Thoughts With TiddlyWik</th>
-      <th>
-        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/oeyoews/usewiki?style=flat-square" alt="badge">
-      </th>
-    </tr>
     <tr>
       <th>
         <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/" target="_blank">
@@ -83,6 +69,20 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/reading-books-with-tiddlywiki?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/usewiki/tree/main/" target="_blank">
+        usewiki</a>
+      </th>
+      <th>
+      📦 Browser Extension: Record Thoughts With TiddlyWik</th>
+      <th>
+        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/usewiki?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
