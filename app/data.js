@@ -11,6 +11,14 @@ const packages = [
   {
     logo: '📦',
     repo: 'tiddlywiki-starter-kit',
+    name: 'randomstring-plus',
+    desc: 'generate random string',
+    path: 'packages/randomstring-plus',
+    techList: [badges.TypeScript, badges.NodeJS, badges.NPM],
+  },
+  {
+    logo: '📦',
+    repo: 'tiddlywiki-starter-kit',
     name: 'create-neotw-app',
     desc: 'create a tiddlywiki project with tiddlywiki-starter-kit',
     path: 'packages/create-neotw-apps',
@@ -64,6 +72,12 @@ const projects = [
     repo: 'usewiki',
     desc: 'Browser Extension: Record Thoughts With TiddlyWik',
     techList: [badges.TiddlyWiki5],
+  },
+  {
+    logo: '📦',
+    repo: 'packages-template',
+    desc: '一个使用 tsup + typescript 搭建的轻量 npm package 模板',
+    techList: [badges.TypeScript, badges.NodeJS, badges.NPM],
   },
 ];
 

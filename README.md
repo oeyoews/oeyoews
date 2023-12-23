@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/23 18:44:30 -->
+<!-- generated at 2023/12/23 19:37:24 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -85,6 +85,22 @@
         <img src="https://img.shields.io/github/stars/oeyoews/usewiki?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/packages-template/tree/main/" target="_blank">
+        packages-template</a>
+      </th>
+      <th>
+      📦 一个使用 tsup + typescript 搭建的轻量 npm package 模板</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NPM-C12127?style=flat-square&logo=npm&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/packages-template?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
 <h2>📦 Packages</h2>
@@ -97,6 +113,19 @@
     </tr>
   </thead>
   <tbody align="left">
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/packages/randomstring-plus" target="_blank">
+        randomstring-plus</a>
+      </th>
+      <th>
+      📦 generate random string</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NPM-C12127?style=flat-square&logo=npm&logoColor=white" alt="badge">
+      </th>
+    </tr>
     <tr>
       <th>
         <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/packages/create-neotw-apps" target="_blank">
