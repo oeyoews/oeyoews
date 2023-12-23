@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/22 14:50:22 -->
+<!-- generated at 2023/12/23 18:44:30 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -18,7 +18,7 @@
       <th>
       📦 使用 tiddlywiki 搭建的本地优先的笔记软件</th>
       <th>
-        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
       </th>
@@ -65,7 +65,7 @@
       📖 使用 tiddlywiki 构建的在线书籍阅读器</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/reading-books-with-tiddlywiki?style=flat-square" alt="badge">
@@ -79,7 +79,7 @@
       <th>
       📦 Browser Extension: Record Thoughts With TiddlyWik</th>
       <th>
-        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/usewiki?style=flat-square" alt="badge">
@@ -105,7 +105,7 @@
       <th>
       📦 create a tiddlywiki project with tiddlywiki-starter-kit</th>
       <th>
-        <img src="https://img.shields.io/badge/TiddlyWiki5-black?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
       </th>
