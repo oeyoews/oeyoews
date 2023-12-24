@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/23 19:37:24 -->
+<!-- generated at 2023/12/24 18:08:35 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -12,43 +12,13 @@
   <tbody align="left">
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/" target="_blank">
-        tiddlywiki-starter-kit</a>
-      </th>
-      <th>
-      📦 使用 tiddlywiki 搭建的本地优先的笔记软件</th>
-      <th>
-        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-starter-kit?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <a href="https://github.com/oeyoews/nextjs-mdx-blog/tree/main/" target="_blank">
-        nextjs-mdx-blog</a>
-      </th>
-      <th>
-      📝 支持多种数据源的 Blog, 使用 Nextjs14 构建</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/oeyoews/nextjs-mdx-blog?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th>
         <a href="https://github.com/oeyoews/react-music/tree/main/" target="_blank">
         react-music</a>
       </th>
       <th>
       🎶 使用 nextjs14 构建的在线音乐播放器</th>
       <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="badge">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
       </th>
@@ -73,12 +43,45 @@
     </tr>
     <tr>
       <th>
+        <a href="https://github.com/oeyoews/nextjs-mdx-blog/tree/main/" target="_blank">
+        nextjs-mdx-blog</a>
+      </th>
+      <th>
+      📝 支持多种数据源的 Blog, 使用 Nextjs14 构建</th>
+      <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/nextjs-mdx-blog?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-starter-kit/tree/main/" target="_blank">
+        tiddlywiki-starter-kit</a>
+      </th>
+      <th>
+      📦 使用 tiddlywiki 搭建的本地优先的笔记软件</th>
+      <th>
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/NodeJS-43853D?style=flat-square&logo=node.js&logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-starter-kit?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="https://github.com/oeyoews/usewiki/tree/main/" target="_blank">
         usewiki</a>
       </th>
       <th>
       📦 Browser Extension: Record Thoughts With TiddlyWik</th>
       <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="badge">
         <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
       </th>
       <th>

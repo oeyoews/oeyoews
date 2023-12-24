@@ -44,18 +44,6 @@ const packages = [
 
 const projects = [
   {
-    logo: '📦',
-    repo: 'tiddlywiki-starter-kit',
-    desc: '使用 tiddlywiki 搭建的本地优先的笔记软件',
-    techList: [badges.TiddlyWiki5, badges.NodeJS, badges.TailwindCSS],
-  },
-  {
-    logo: '📝',
-    repo: 'nextjs-mdx-blog',
-    desc: '支持多种数据源的 Blog, 使用 Nextjs14 构建',
-    techList: [badges.React, badges.TypeScript, badges.NextJS],
-  },
-  {
     logo: '🎶',
     repo: 'react-music',
     desc: '使用 nextjs14 构建的在线音乐播放器',
@@ -66,6 +54,18 @@ const projects = [
     repo: 'reading-books-with-tiddlywiki',
     desc: '使用 tiddlywiki 构建的在线书籍阅读器',
     techList: [badges.TypeScript, badges.TiddlyWiki5],
+  },
+  {
+    logo: '📝',
+    repo: 'nextjs-mdx-blog',
+    desc: '支持多种数据源的 Blog, 使用 Nextjs14 构建',
+    techList: [badges.React, badges.TypeScript, badges.NextJS],
+  },
+  {
+    logo: '📦',
+    repo: 'tiddlywiki-starter-kit',
+    desc: '使用 tiddlywiki 搭建的本地优先的笔记软件',
+    techList: [badges.TiddlyWiki5, badges.NodeJS, badges.TailwindCSS],
   },
   {
     logo: '📦',
