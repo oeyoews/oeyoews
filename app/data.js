@@ -53,13 +53,13 @@ const projects = [
     logo: '📝',
     repo: 'nextjs-mdx-blog',
     desc: '支持多种数据源的 Blog, 使用 Nextjs14 构建',
-    techList: [badges.TypeScript, badges.NextJS],
+    techList: [badges.React, badges.TypeScript, badges.NextJS],
   },
   {
     logo: '🎶',
     repo: 'react-music',
     desc: '使用 nextjs14 构建的在线音乐播放器',
-    techList: [badges.TypeScript, badges.NextJS],
+    techList: [badges.React, badges.TypeScript, badges.NextJS],
   },
   {
     logo: '📖',
@@ -71,7 +71,7 @@ const projects = [
     logo: '📦',
     repo: 'usewiki',
     desc: 'Browser Extension: Record Thoughts With TiddlyWik',
-    techList: [badges.TiddlyWiki5],
+    techList: [badges.React, badges.TiddlyWiki5],
   },
   {
     logo: '📦',
