@@ -1,6 +1,10 @@
 const { badges } = require('skill-badges');
 const chalk = require('chalk');
 
+// - vim/neovim: 耗时：不低于 500 小时。
+// - linux: 耗时不低于 1000 小时。
+// - tiddlywiki: 不低于 1000 小时。
+
 const createGitHubURL = (repo, path = '') =>
   `https://github.com/oeyoews/${repo}/tree/main/${path}`;
 const createGitHubStarURL = (repo) =>
@@ -48,6 +52,12 @@ const projects = [
     repo: 'react-music',
     desc: '使用 nextjs14 构建的在线音乐播放器',
     techList: [badges.React, badges.TypeScript, badges.NextJS],
+  },
+  {
+    logo: '📦',
+    repo: 'tiddlywiki-codemirror-6',
+    desc: 'tiddlywiki codemirror6',
+    techList: [badges.JavaScript, badges.TiddlyWiki5],
   },
   {
     logo: '📖',

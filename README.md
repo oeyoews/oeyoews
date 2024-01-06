@@ -1,4 +1,4 @@
-<!-- generated at 2023/12/24 18:08:35 -->
+<!-- generated at 2024/1/6 10:10:54 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -24,6 +24,21 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/oeyoews/react-music?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/oeyoews/tiddlywiki-codemirror-6/tree/main/" target="_blank">
+        tiddlywiki-codemirror-6</a>
+      </th>
+      <th>
+      📦 tiddlywiki codemirror6</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-codemirror-6?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
