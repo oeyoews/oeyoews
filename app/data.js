@@ -55,7 +55,7 @@ const projects = [
   },
   {
     logo: '📦',
-    repo: 'tiddlywiki-codemirror-6',
+    repo: 'tiddlywiki-codemirror6',
     desc: 'tiddlywiki codemirror6',
     techList: [badges.JavaScript, badges.TiddlyWiki5],
   },

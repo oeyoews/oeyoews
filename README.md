@@ -1,4 +1,4 @@
-<!-- generated at 2024/1/6 10:10:54 -->
+<!-- generated at 2024/1/6 10:19:11 -->
 <h2>💼 项目</h2>
 <table>
   <thead align="center">
@@ -28,8 +28,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/oeyoews/tiddlywiki-codemirror-6/tree/main/" target="_blank">
-        tiddlywiki-codemirror-6</a>
+        <a href="https://github.com/oeyoews/tiddlywiki-codemirror6/tree/main/" target="_blank">
+        tiddlywiki-codemirror6</a>
       </th>
       <th>
       📦 tiddlywiki codemirror6</th>
@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/TiddlyWiki5-111111?style=flat-square&logo=tiddlywiki&logoColor=white" alt="badge">
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-codemirror-6?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/oeyoews/tiddlywiki-codemirror6?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
