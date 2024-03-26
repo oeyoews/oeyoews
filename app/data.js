@@ -82,9 +82,9 @@ const projects = [
   },
   {
     logo: '📦',
-    repo: 'usewiki',
+    repo: 'usewiki2',
     desc: 'Browser Extension: Record Thoughts With TiddlyWik',
-    techList: [badges.React, badges.TiddlyWiki5],
+    techList: [badges.Vue, badges.TiddlyWiki5],
   },
   {
     logo: '📦',
